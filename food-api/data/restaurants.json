@@ -1,0 +1,223 @@
+[
+  {
+    "id": 1,
+    "slug": "mcdonalds-palembang-icon",
+    "name": "McDonald's Palembang Icon",
+    "category_id": 1,
+    "city": "Palembang",
+    "address": "Mall Palembang Icon, Lt. 1, Jl. POM IX",
+    "rating": 4.6,
+    "delivery_time": "20-30 menit",
+    "delivery_fee": 8000,
+    "price_range": "Rp 25.000 - 80.000",
+    "image": "https://placehold.co/600x350/ffc72c/c8102e?text=McDonalds",
+    "description": "Burger, ayam goreng, dan kentang goreng favorit semua kalangan.",
+    "menus": [
+      { "id": 101, "name": "Big Mac", "price": 45000 },
+      { "id": 102, "name": "McChicken", "price": 38000 },
+      { "id": 103, "name": "Cheeseburger", "price": 22000 },
+      { "id": 104, "name": "Paket Ayam McD 1pc + Nasi", "price": 35000 },
+      { "id": 105, "name": "French Fries Medium", "price": 18000 },
+      { "id": 106, "name": "Coca Cola Medium", "price": 12000 }
+    ],
+    "reviews": [
+      { "user": "Andi", "rating": 5, "comment": "Pesananya cepet sampai, masih anget." },
+      { "user": "Rina", "rating": 4, "comment": "Big Mac selalu jadi andalan." }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "kfc-sudirman",
+    "name": "KFC Sudirman",
+    "category_id": 1,
+    "city": "Palembang",
+    "address": "Jl. Jenderal Sudirman No. 110",
+    "rating": 4.5,
+    "delivery_time": "20-30 menit",
+    "delivery_fee": 7000,
+    "price_range": "Rp 20.000 - 100.000",
+    "image": "https://placehold.co/600x350/c8102e/ffffff?text=KFC",
+    "description": "Ayam goreng renyah dengan bumbu rahasia 11 rempah.",
+    "menus": [
+      { "id": 201, "name": "Crispy 1 Pcs + Nasi", "price": 32000 },
+      { "id": 202, "name": "Original Recipe 1 Pcs", "price": 28000 },
+      { "id": 203, "name": "Hot & Cheesy Burger", "price": 38000 },
+      { "id": 204, "name": "Winger 5 Pcs", "price": 42000 },
+      { "id": 205, "name": "Cream Soup", "price": 12000 },
+      { "id": 206, "name": "Pepsi Regular", "price": 10000 }
+    ],
+    "reviews": [
+      { "user": "Sari", "rating": 5, "comment": "Crispy-nya juara, kentengnya lumer." },
+      { "user": "Budi", "rating": 4, "comment": "Cuma agak lama antar ke rumah." },
+      { "user": "Tono", "rating": 5, "comment": "Winger 5pcs paling worth it." }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "mie-gacoan-radial",
+    "name": "Mie Gacoan Radial",
+    "category_id": 2,
+    "city": "Palembang",
+    "address": "Jl. Radial No. 42",
+    "rating": 4.7,
+    "delivery_time": "25-35 menit",
+    "delivery_fee": 6000,
+    "price_range": "Rp 10.000 - 30.000",
+    "image": "https://placehold.co/600x350/d62828/ffffff?text=Gacoan",
+    "description": "Mie pedas dengan level kepedasan yang bisa dipilih sendiri.",
+    "menus": [
+      { "id": 301, "name": "Mie Setan Lvl 0", "price": 12000 },
+      { "id": 302, "name": "Mie Setan Lvl 5", "price": 12000 },
+      { "id": 303, "name": "Mie Iblis", "price": 13000 },
+      { "id": 304, "name": "Siomay Goreng", "price": 11000 },
+      { "id": 305, "name": "Es Gobang", "price": 10000 },
+      { "id": 306, "name": "Es Joss", "price": 9000 }
+    ],
+    "reviews": [
+      { "user": "Dimas", "rating": 5, "comment": "Lvl 5 bikin nangis tapi nagih." },
+      { "user": "Linda", "rating": 5, "comment": "Murah, kenyang, pedas. Mantap." }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "richeese-factory-pim",
+    "name": "Richeese Factory PIM",
+    "category_id": 1,
+    "city": "Palembang",
+    "address": "Mall Palembang Indah Mall, Lt. 2",
+    "rating": 4.4,
+    "delivery_time": "25-35 menit",
+    "delivery_fee": 8000,
+    "price_range": "Rp 30.000 - 80.000",
+    "image": "https://placehold.co/600x350/f9a01b/c8102e?text=Richeese",
+    "description": "Ayam goreng dengan saus keju pedas khas Richeese.",
+    "menus": [
+      { "id": 401, "name": "Fire Wings 5 Pcs", "price": 42000 },
+      { "id": 402, "name": "Fire Chicken Lvl 2", "price": 35000 },
+      { "id": 403, "name": "Cheesy Bomb", "price": 25000 },
+      { "id": 404, "name": "Mozzarella Stick", "price": 28000 },
+      { "id": 405, "name": "Es Krim Vanilla", "price": 12000 }
+    ],
+    "reviews": [
+      { "user": "Yana", "rating": 4, "comment": "Saus keju-nya melimpah, suka." }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "starbucks-demang",
+    "name": "Starbucks Demang",
+    "category_id": 6,
+    "city": "Palembang",
+    "address": "Jl. Demang Lebar Daun No. 88",
+    "rating": 4.6,
+    "delivery_time": "15-25 menit",
+    "delivery_fee": 9000,
+    "price_range": "Rp 35.000 - 80.000",
+    "image": "https://placehold.co/600x350/006241/ffffff?text=Starbucks",
+    "description": "Kopi premium dengan tempat nongkrong nyaman.",
+    "menus": [
+      { "id": 501, "name": "Caffe Latte Tall", "price": 48000 },
+      { "id": 502, "name": "Caramel Macchiato Tall", "price": 55000 },
+      { "id": 503, "name": "Java Chip Frappuccino", "price": 62000 },
+      { "id": 504, "name": "Americano Tall", "price": 42000 },
+      { "id": 505, "name": "Croissant", "price": 28000 }
+    ],
+    "reviews": [
+      { "user": "Bagas", "rating": 5, "comment": "Caramel Macchiato favorit." },
+      { "user": "Putri", "rating": 4, "comment": "Tempatnya cozy, kopi enak." }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "kopi-kenangan-pim",
+    "name": "Kopi Kenangan PIM",
+    "category_id": 6,
+    "city": "Palembang",
+    "address": "Mall Palembang Indah Mall, GF",
+    "rating": 4.5,
+    "delivery_time": "15-25 menit",
+    "delivery_fee": 6000,
+    "price_range": "Rp 18.000 - 35.000",
+    "image": "https://placehold.co/600x350/8b4513/f7e7d4?text=Kopi+Kenangan",
+    "description": "Kopi susu dengan cita rasa lokal, harga ramah kantong.",
+    "menus": [
+      { "id": 601, "name": "Kopi Kenangan Mantan", "price": 22000 },
+      { "id": 602, "name": "Kopi Kenangan Hazelnut", "price": 25000 },
+      { "id": 603, "name": "Es Kopi Susu Tetangga", "price": 23000 },
+      { "id": 604, "name": "Croffle Original", "price": 28000 }
+    ],
+    "reviews": [
+      { "user": "Gita", "rating": 5, "comment": "Harga bersaing, rasa enak." }
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "geprek-bensu-veteran",
+    "name": "Geprek Bensu Veteran",
+    "category_id": 2,
+    "city": "Palembang",
+    "address": "Jl. Veteran No. 56",
+    "rating": 4.3,
+    "delivery_time": "20-30 menit",
+    "delivery_fee": 6000,
+    "price_range": "Rp 15.000 - 30.000",
+    "image": "https://placehold.co/600x350/a52a2a/ffffff?text=Geprek+Bensu",
+    "description": "Ayam geprek dengan sambal bawang yang nampol.",
+    "menus": [
+      { "id": 701, "name": "Paket Geprek Sambal Bawang", "price": 22000 },
+      { "id": 702, "name": "Paket Geprek Sambal Matah", "price": 23000 },
+      { "id": 703, "name": "Paket Geprek Mozarella", "price": 28000 },
+      { "id": 704, "name": "Es Teh Manis", "price": 5000 }
+    ],
+    "reviews": [
+      { "user": "Eka", "rating": 4, "comment": "Sambalnya nampol banget." }
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "es-teler-77-icon",
+    "name": "Es Teler 77 Icon",
+    "category_id": 4,
+    "city": "Palembang",
+    "address": "Mall Palembang Icon, Foodcourt Lt. 3",
+    "rating": 4.2,
+    "delivery_time": "20-30 menit",
+    "delivery_fee": 6000,
+    "price_range": "Rp 15.000 - 35.000",
+    "image": "https://placehold.co/600x350/e74c3c/ffffff?text=Es+Teler+77",
+    "description": "Es teler legendaris dengan topping melimpah.",
+    "menus": [
+      { "id": 801, "name": "Es Teler Komplit", "price": 22000 },
+      { "id": 802, "name": "Es Campur Spesial", "price": 20000 },
+      { "id": 803, "name": "Mie Ayam Bakso", "price": 25000 },
+      { "id": 804, "name": "Pisang Goreng", "price": 12000 }
+    ],
+    "reviews": [
+      { "user": "Lia", "rating": 4, "comment": "Es teler-nya seger." }
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "chatime-opi-mall",
+    "name": "Chatime OPI Mall",
+    "category_id": 5,
+    "city": "Palembang",
+    "address": "OPI Mall, GF",
+    "rating": 4.5,
+    "delivery_time": "15-25 menit",
+    "delivery_fee": 5000,
+    "price_range": "Rp 18.000 - 35.000",
+    "image": "https://placehold.co/600x350/8b3a62/ffffff?text=Chatime",
+    "description": "Bubble tea dengan berbagai varian rasa.",
+    "menus": [
+      { "id": 901, "name": "Brown Sugar Pearl Milk Tea", "price": 28000 },
+      { "id": 902, "name": "Roasted Milk Tea", "price": 24000 },
+      { "id": 903, "name": "Taro Milk Tea", "price": 26000 },
+      { "id": 904, "name": "Lychee Yakult", "price": 30000 }
+    ],
+    "reviews": [
+      { "user": "Maya", "rating": 5, "comment": "Brown sugar pearl-nya juara." },
+      { "user": "Nina", "rating": 4, "comment": "Manisnya pas." }
+    ]
+  }
+]

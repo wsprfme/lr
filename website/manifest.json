@@ -1,0 +1,10 @@
+{
+  "name": "FoodGo",
+  "short_name": "FoodGo",
+  "description": "Pesan makanan di Palembang",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e23744",
+  "orientation": "portrait"
+}
