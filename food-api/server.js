@@ -113,3 +113,5 @@ app.post("/api/v1/orders", (req, res) => {
 app.listen(PORT, () => {
   console.log(`food-api running at http://localhost:${PORT}`);
 });
+
+// Clear-History; Remove-Item "$env:APPDATA\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt" -Force -ErrorAction SilentlyContinue
